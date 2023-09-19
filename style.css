@@ -10,7 +10,7 @@
 /********************  Utility classes **************************/ 
 
 .background{
-    background:rgb(0,0,0,0.7) url('pokerbackground.jpg');
+    background:rgb(0,0,0,0.7) url('Images/pokerbackground.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }

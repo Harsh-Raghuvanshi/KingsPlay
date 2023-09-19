@@ -241,7 +241,7 @@
 /* puzzle container */
 .puzzlecon{
     border:2px solid black;
-    background:rgb(0,0,0,0.7) url('puzzback.png');
+    background:rgb(0,0,0,0.7) url('Images/puzzback.png');
     background-size: cover;
     background-blend-mode: darken;
     display:flex;
